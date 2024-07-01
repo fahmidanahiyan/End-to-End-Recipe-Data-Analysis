@@ -1,6 +1,6 @@
 # Recipe Data Analysis Project
 
-You can check out the full project presentation video [here]([https://youtu.be/JQI9JXezkBg]).
+You can check out the full project presentation video [here](https://youtu.be/JQI9JXezkBg).
 
 ## Table of Contents
 
