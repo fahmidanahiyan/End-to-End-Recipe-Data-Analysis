@@ -48,10 +48,6 @@ Two interactive dashboards were created in Tableau to analyze and share insights
 - Visualized the nutritional value distribution across different courses using line charts and bar charts.
 - Investigated the Weight Watchers values for different categories and how each nutrition type contributes to the Weight Watchers values.
 
-### Insights
-
--
-
 ## Conclusion
 
 This project provides comprehensive insights into recipe data, highlighting patterns in ingredients, duration, and nutritional values across different courses, cuisines, and categories. The interactive dashboards allow users to explore the data dynamically.
