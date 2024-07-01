@@ -1,4 +1,4 @@
-# Recipe Data Analysis Project
+# End-to-End Recipe Data Analysis
 
 You can check out the full project presentation video [here](https://youtu.be/JQI9JXezkBg).
 
