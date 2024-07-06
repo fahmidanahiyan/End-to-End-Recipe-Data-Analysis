@@ -48,6 +48,14 @@ Two interactive dashboards were created in Tableau to analyze and share insights
 - Visualized the nutritional value distribution across different courses using line charts and bar charts.
 - Investigated the Weight Watchers values for different categories and how each nutrition type contributes to the Weight Watchers values.
 
+## Insights
+
+1. Kosher salt, garlic, and olive oil are the three most commonly used ingredients across recipes, indicating their essential role in a variety of dishes.
+2. Among all courses, recipes categorized under 'sauce' take the most total time to prepare. This indicates that sauces often require more extensive preparation and cooking time compared to other courses.
+3. Carbohydrate and protein appear to be the main contributors to Weight Watchers values. However, it’s important to note that these findings may be influenced by the available data, and further analysis may be needed to confirm these contributors accurately.
+
+**Note:** It should be noted that further insights can be found by changing the filters since it is an interactive dashboard.
+
 ## Conclusion
 
 This project provides comprehensive insights into recipe data, highlighting patterns in ingredients, duration, and nutritional values across different courses, cuisines, and categories. The interactive dashboards allow users to explore the data dynamically.
